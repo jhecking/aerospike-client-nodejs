@@ -49,7 +49,7 @@
     "mocha": "^5.0.0",
     "mocha-clean": "^1.0.0",
     "nyc": "^11.2.1",
-    "seedrandom": "^2.4.3",
+    "seedrandom": "^3.0.0",
     "standard": "^10.0",
     "yargs": "^11.0.0"
   },
